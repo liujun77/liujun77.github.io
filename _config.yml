@@ -1,8 +1,8 @@
 # Site settings
 title: Jun Liu's Blog
-SEOTitle: Jun Liu's Blog | BY Blog
+SEOTitle: Jun Liu's Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: liujun77@gmail.com
 description: "Every failure is leading towards success."
 keyword: "machine learning, deep learning, java"
 url: "http://liujun77.github.io"          # your host, for absolute URL
@@ -21,7 +21,7 @@ RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:     qiubaiying
 github_username:    liujun77
-facebook_username:  baiying.qiu.7
+facebook_username:  liujun77@gmail.com
 jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
