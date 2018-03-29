@@ -1,6 +1,6 @@
-# slim
+# My home page
 
-slim is just a slim jekyll theme. [Demo](http://syaning.com/slim).
+based on jekyll slim theme from syaning.
 
 ### License
 
